@@ -1,5 +1,5 @@
-Brad Pitt, man, caucasian, blonde, blue eye, handsome, Inglourious Basterds,
-Will Smith, man, afro-american, black, black eye, rapper, Independence Day
-Bruce Lee, man, asian, black, black eye, kung-fu master, Way of the Dragon
-Emma Wattson, woman, caucasian, brown, light-brown, Hermione, Harry Potter
-Natalie Portman, woman, caucasian, brown, brown, very pretty, Black Swan 
+Brad Pitt, man, caucasian, blond hair, blue eye, handsome, Inglourious Basterds,
+Will Smith, man, afro-american, black hair, black eye, rapper, Independence Day
+Bruce Lee, man, asian, black hair, black eye, kung-fu master, Way of the Dragon
+Emma Wattson, woman, caucasian, brown hair, light-brown eye, Hermione, Harry Potter
+Natalie Portman, woman, caucasian, brown hair, brown eye, very pretty, Black Swan 
