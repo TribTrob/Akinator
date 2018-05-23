@@ -1,9 +1,18 @@
-def get_table_from_file(file_name):
+def get_list_from_file(file_name):
 
     with open(file_name, "r") as file:
         lines = file.readlines()
-    table = [element.replace("\n", "").split(";") for element in lines]
-    return table
+    list_of_ppl = [element.replace("\n", "").split(",") for element in lines]
+    return list_of_ppl
 
 
-get_table_from_file("emberek.txt")
+def get_names(table):
+    names = []
+    for i in table:
+        print(i)
+    print(names)
+
+
+# print(get_list_from_file("emberek.txt"))
+
+get_names(get_list_from_file("emberek.txt"))
