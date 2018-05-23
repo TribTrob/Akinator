@@ -2,7 +2,7 @@ def get_list_from_file(file_name):
 
     with open(file_name, "r") as file:
         lines = file.readlines()
-    list_of_ppl = [element.replace("\n", "").split(",") for element in lines]
+    list_of_ppl = [element.replace("\n", "").split(", ") for element in lines]
     return list_of_ppl
 
 
@@ -49,7 +49,6 @@ def get_attribute_lists(table):
     attribute_list.append(eye_colors)
     attribute_list.append(spec_features)
     attribute_list.append(movies)
-    print(attribute_list)
 # print(get_list_from_file("emberek.txt"))
 
 
